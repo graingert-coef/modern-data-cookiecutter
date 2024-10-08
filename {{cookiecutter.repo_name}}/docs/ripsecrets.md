@@ -72,7 +72,7 @@ If your commit contains a mixture of false positives and actual secrets, remove 
 first before updating and auditing the `.secretsignore` file.
 
 See https://github.com/sirwart/ripsecrets?tab=readme-ov-file#ignoring-secrets
-for how to update thje `.secretsignore` file.
+for how to update the `.secretsignore` file.
 
 
 ---
